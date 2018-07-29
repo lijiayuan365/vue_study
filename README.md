@@ -1,6 +1,6 @@
 # vuestudy
 
-> A Vue.js project
+> 专门用来实践vue的各种奇奇怪怪的事情
 
 ## Build Setup
 
